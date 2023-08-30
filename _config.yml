@@ -1,4 +1,4 @@
-title: <p align="center"> Hemanth Kumar G K </p>
+title: <p align="center"> Hemanth Kumar GK </p>
 logo: /assets/img/Hemanth.png
 
 description:
@@ -7,14 +7,12 @@ description:
   <a href="www.linkedin.com/in/hemanth-kumar-g-k-b8b0ba67">LinkedIn</a> |
   <a href="https://github.com/GK-TechWorld">GitHub</a>
   
-  <br>   
-  A Senior Software Engineer with an experience of 10+ years in embedded 
-  software development with good understanding of C and C++ programming, 
-  Linux internals, threads, inter-process communications, deadlocks, 
+  <br>
+  Senior Software Engineer with an experience of 10+ years in embedded
+  software development with good understanding of C and C++ programming,
+  Linux internals, threads, inter-process communications, deadlocks,
   concurrency control and RTOS concepts with exposure to the complete Software Development Life Cycle.
   <br>
   </p>
-
-
 
 theme: jekyll-theme-minimal
